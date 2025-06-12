@@ -1,6 +1,6 @@
-<p align="center">
-# Swiftbot Navigation
-</p>
+
+# <p style="text-align:center;">Swiftbot Navigation</p>
+
 
 Welcome to **Swiftbot Navigation** – a Java-powered interface for guiding your SwiftBot with QR commands and manual inputs! This bot doesn't just move... it *logs*, it *retraces*, it *scans*, and it looks good doing it >:)
 
